@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&family=Rubik:wght@500&family=Tajawal:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&family=Rubik:wght@500&display=swap');
+
+body{
+background-color:#181D27;
+}
+.groub{
+color:yellow;
+text-align:center;
+font-family: 'Rubik', sans-serif;
+font-weight:200;
+}
+
+.fang{
+float: right;
+position: absolute;
+top: 5px;
+right: 4px;
+width: 80px;
+height: 80px;
+border-radius: 50%;
+}
+.pp{
+color:yellow;
+text-align:center;
+font-family: 'Rubik', sans-serif;
+font-size:24px;
+}
+.button1{
+background-color:yellow;
+border-radius:12px;
+width:120px;
+height:35px;
+text-size:24px;
+border-color:black;
+float:right;
+right:5px;
+top:5px;
+font-family: 'Tajawal', sans-serif;
+font-size:medium;
+font-weight:400;
+}
+.button1:hover{
+background-color:orange;
+}
+
+
+.button2{
+position:absolute;
+background-color:yellow;
+border-radius:12px;
+width:120px;
+height:35px;
+text-size:24px;
+border-color:black;
+float:right;
+right:250px;
+top:209px;
+font-family: 'Tajawal', sans-serif;
+font-size:medium;
+font-weight:400;
+
+}
+
+.button3{
+background-color:yellow;
+position:absolute;
+border-radius:12px;
+width:120px;
+height:35px;
+text-size:24px;
+border-color:black;
+float:right;
+right:5px;
+top:330px;
+font-family: 'Tajawal', sans-serif;
+font-size:medium;
+font-weight:400;
+}
+
+.span1{
+color:red;
+
+}
+.span2{
+color:red;
+
+}
+
+
+.button2:hover{
+background-color:orange;
+
+}
+.button3:hover{
+
+background-color:orange;
+}
+.button4{
+background-color:yellow;
+position:absolute;
+border-radius:12px;
+width:120px;
+height:35px;
+text-size:24px;
+border-color:black;
+float:right;
+right:250px;
+top:330px;
+font-family: 'Tajawal', sans-serif;
+font-size:medium;
+font-weight:400;
+}
+.button4:hover{
+background-color:orange;
+
+}
+.hani{
+
+color:white;
+font-weight:200;
+font-size:18px;
+font-family: 'Tajawal', sans-serif;
+position:absolute;
+top:650px;
+opacity:10%;
+}
